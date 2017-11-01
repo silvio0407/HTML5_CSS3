@@ -57,6 +57,33 @@ padding: 2px;
 clear: both;
 }
 
+.footer{
+font-size: 12px;
+text-align: center;
+}
+
+.sidenote {
+background-color: #FFFBE4;
+border: 1px solid #C98C8F;
+float: right;
+padding: 10px;
+width: 260px;
+}
+
+.sidenote h3{
+font-size: 14px;
+margin-top:0;
+}
+
+.sidenote ol{
+font-size: 12px;
+}
+
+.places{
+float: left;
+width: 660px;
+}
+
 h4 a {
 color: #7E9F19;
 text-decoration: none;
