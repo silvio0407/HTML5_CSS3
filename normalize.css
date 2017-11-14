@@ -28,7 +28,7 @@ margin: 0 auto;
 width: 960px;
 }
 
-.place {
+article {
 	background-color: #FFF;
 	border: 1px solid #CCC;
 	border-color: #CCC #999 #999 #CCC;
@@ -57,12 +57,12 @@ padding: 2px;
 clear: both;
 }
 
-.footer{
+footer{
 font-size: 12px;
 text-align: center;
 }
 
-.sidenote {
+aside {
 background-color: #FFFBE4;
 border: 1px solid #C98C8F;
 float: right;
@@ -70,12 +70,12 @@ padding: 10px;
 width: 260px;
 }
 
-.sidenote h3{
+aside h3{
 font-size: 14px;
 margin-top:0;
 }
 
-.sidenote ol{
+aside ol{
 font-size: 12px;
 }
 
